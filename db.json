@@ -1,0 +1,89 @@
+{
+  "room": [
+    {
+      "name": "Phong 03",
+      "desc": "Mo ta",
+      "quantityBed": 2,
+      "quantityPeople": 3,
+      "utils": [
+        "Condition",
+        "refrigerator"
+      ],
+      "status": true,
+      "type": true,
+      "id": 3
+    },
+    {
+      "name": "Phong 01",
+      "desc": "Mo ta",
+      "quantityBed": 2,
+      "quantityPeople": 3,
+      "utils": [
+        "refrigerator",
+        "Television",
+        "ViewBeach"
+      ],
+      "status": true,
+      "type": true,
+      "id": 1
+    },
+    {
+      "name": "Phong 2",
+      "desc": "Mo ta....",
+      "quantityBed": 2,
+      "quantityPeople": 3,
+      "utils": [
+        "refrigerator",
+        "washing-machine"
+      ],
+      "status": true,
+      "type": true,
+      "id": 4
+    },
+    {
+      "name": "Phong 06",
+      "desc": "Mo ta",
+      "quantityBed": 3,
+      "quantityPeople": 4,
+      "utils": [
+        "Condition",
+        "washing-machine"
+      ],
+      "status": false,
+      "type": false,
+      "id": 5
+    }
+  ],
+  "prevroom": [
+    {
+      "fullname": "Hà Minh Phương",
+      "phone": "0372054799",
+      "email": "dieuanhngo99@gmail.com",
+      "service": [
+        "thue xe may",
+        "thue o to 4 cho"
+      ],
+      "time": "12h",
+      "gift": "kem chong nang",
+      "booktime": [
+        "2023-07-18T03:34:53.109Z",
+        "2023-08-17T03:34:53.109Z"
+      ],
+      "id": 1
+    },
+    {
+      "fullname": "Hà Minh Phương",
+      "phone": "0372054799",
+      "service": [
+        "thue xe may"
+      ],
+      "time": "9h",
+      "gift": "kem chong nang",
+      "booktime": [
+        "2023-07-20T03:36:31.009Z",
+        "2023-08-14T03:36:31.009Z"
+      ],
+      "id": 2
+    }
+  ]
+}
